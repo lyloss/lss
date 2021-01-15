@@ -1,5 +1,5 @@
 package Maths;
-AAAAA
+
 import java.util.Random;
 
 public class Ceil {
